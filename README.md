@@ -4,18 +4,25 @@
 1-اول در CMD دستورات زیر را اجرا می کنیم
 
 mkdir "%userprofile%\drill"
+
 mkdir "%userprofile%\drill\udf"
+
 mkdir "%userprofile%\drill\udf\registry"
+
 mkdir "%userprofile%\drill\udf\tmp"
+
 mkdir "%userprofile%\drill\udf\staging"
+
 takeown /R /F "%userprofile%\drill"
 
 2-jar های زیر را در مسیر "%userprofile%\drill\udf\staging" کپی می کنید
 
 drill-simple-mask-1.3.jar
+
 drill-simple-mask-1.3-sources.jar
 
 3-jar های زیر را در مسیر "apache-drill-1.21.1\jars\3rdparty%\drill\udf\staging" کپی می کنید
+
 Shamsidate.jar
 
 4- وارد apache-drill-1 می شوید و دستور زیر را اجرا می کنید
