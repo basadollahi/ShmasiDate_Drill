@@ -25,10 +25,13 @@ drill-simple-mask-1.3-sources.jar
 
 Shamsidate.jar
 
+
 4- وارد apache-drill-1 می شوید و دستور زیر را اجرا می کنید
+
 CREATE FUNCTION USING JAR 'drill-simple-mask-1.3.jar';
 
 5-سپس یکبار برنامه را باز و بسته کرده
+
 
 
 6-وارد apache-drill-1 می شوید و دستور زیر را اجرا می کنید
