@@ -24,6 +24,7 @@ drill-simple-mask-1.3-sources.jar
 3-jar های زیر را در مسیر "apache-drill-1.21.1\jars\3rdparty%\drill\udf\staging" کپی می کنید
 
 Shamsidate.jar
+persian-date-time-4.2.1.jar
 
 
 4- وارد apache-drill-1 می شوید و دستور زیر را اجرا می کنید
